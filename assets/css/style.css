@@ -4367,3 +4367,7 @@ body.rtl-mode .price-wrapper {
 .far {
 color: #FF4040;
 }
+
+#scroll-top, #scroll-top i {
+  color: white;
+}
