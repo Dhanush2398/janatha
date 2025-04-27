@@ -15,7 +15,7 @@ $type= $_POST['type'];
 
 
 
-$to ="info@lvmobility.in";
+$to =" muralij@janathas.com";
 $subject = "Cab Packages Enquiry from $type";
 // $txt = $name.$number.$email.$pickup.$date.$time.$days.$suggestion;
 $txt = "

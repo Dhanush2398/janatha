@@ -20,7 +20,7 @@ $drop = $_POST['drop'];
 
 
 
-$to ="info@lvmobility.in";
+$to =" muralij@janathas.com";
 $subject = "Cab Booking";
 // $txt = $name.$number.$email.$vehicle.$pickup.$dropl.$dutytype.$date.$time.$suggestion;
 $txt = "

@@ -14,7 +14,7 @@ $vehicle=$_POST['vehicle'];
 
 
 
-$to ="info@lvmobility.in";
+$to =" muralij@janathas.com";
 $subject = "Destinations Enquiry";
 // $txt = $name.$number.$email.$vehicle.$pickup.$date.$time.$suggestion;
 $txt = "
