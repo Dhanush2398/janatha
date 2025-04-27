@@ -2,7 +2,7 @@
 :root {
   --body-font: "Roboto", sans-serif;
   --heading-font: "Inter", sans-serif;
-  --theme-color: #C20000;
+  --theme-color: #FF4040;
   /* --theme-color: #C10100; */
   --theme-bg-light: #f9f9f9;
   --body-text-color: #757f95;
@@ -748,7 +748,7 @@ label {
     font-size: 17px;
     font-weight: 600;
     text-transform: capitalize;
-    color: #C00000;
+    color: #FF4040;
   }
   .navbar .nav-item:last-child .nav-link {
     margin-right: 0;
