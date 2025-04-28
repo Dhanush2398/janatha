@@ -4371,3 +4371,11 @@ color: #00719c;
 #scroll-top, #scroll-top i {
   color: white;
 }
+@media (max-width: 768px) {
+  .copyright-text {
+    color: white !important;
+  }
+  .copyright-text a {
+    color: white !important;
+  }
+}
