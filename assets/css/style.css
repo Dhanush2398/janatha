@@ -2,8 +2,7 @@
 :root {
   --body-font: "Roboto", sans-serif;
   --heading-font: "Inter", sans-serif;
-  --theme-color: #2d5a86;
-  /* --theme-color: #C10100; */
+  --theme-color: #cc2936;
   --theme-bg-light: #f9f9f9;
   --body-text-color: #757f95;
   --color-white: #ffffff;
@@ -748,7 +747,7 @@ label {
     font-size: 17px;
     font-weight: 600;
     text-transform: capitalize;
-    color: #2d5a86;
+    color: #cc2936;
   }
   .navbar .nav-item:last-child .nav-link {
     margin-right: 0;
@@ -4365,7 +4364,7 @@ body.rtl-mode .price-wrapper {
   border: none !important;
 }
 .far {
-color: #2d5a86;
+color: #cc2936;
 }
 
 #scroll-top, #scroll-top i {
