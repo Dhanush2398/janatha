@@ -39,8 +39,8 @@ $txt = "
     <tr><th width='40%'>Drop Location</th><td width='60%'>$drop</td></tr>
   </table>
 ";
-$headers = "From:lvlogistics.blr@gmail.com" . "\r\n" .
-"CC:lvlogistics.blr@gmail.com";
+$headers = "From:muralij@janathas.com" . "\r\n" .
+"CC:muralij@janathas.com";
 $headers .= "MIME-Version: 1.0\r\n";
 $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 // print($txt)
